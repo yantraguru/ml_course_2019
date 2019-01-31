@@ -1,0 +1,8 @@
+1) Work with facebook data . Submit your notebooks 
+2) Gradient Descent :
+   https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html
+   https://medium.com/meta-design-ideas/linear-regression-by-using-gradient-descent-algorithm-your-first-step-towards-machine-learning-a9b9c0ec41b1
+   https://www.youtube.com/watch?v=9O1wH9eltj4
+   
+   Or if you find any better explaination for you, please share it with the class.
+   We'll have quiz and discussion.
