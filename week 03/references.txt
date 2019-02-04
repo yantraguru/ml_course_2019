@@ -1,0 +1,13 @@
+Data Preprocessing:
+
+You can refer any one of these.
+
+1) https://data-flair.training/blogs/python-ml-data-preprocessing/
+2) https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_data_preprocessing_analysis_visualization.htm
+3) https://www.analyticsvidhya.com/blog/2016/07/practical-guide-data-preprocessing-python-scikit-learn/
+4) https://www.analyticsindiamag.com/data-pre-processing-in-python/
+
+Polynomial Regression:
+
+1) https://www.youtube.com/watch?v=FU_awoUOqwc
+
