@@ -1,0 +1,10 @@
+1. Discussion on Test
+2. Solution
+3. Recap
+4. Gradient Descent
+5. Lab
+   - Coefficients
+   - Regularization
+   - Cross validation
+   - Residuals
+6. Practice
