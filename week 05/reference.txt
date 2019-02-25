@@ -1,0 +1,9 @@
+Python programminng book
+https://www.eecs.wsu.edu/~schneidj/PyBook/swan.pdf
+
+Program Collection
+https://github.com/Akuli/python-tutorial
+
+Vector programming
+https://realpython.com/numpy-array-programming/
+

@@ -1,0 +1,11 @@
+Analysis of auto_mpg.csv
+
+1) How many rows in train and test? (1 pt)
+2) Describe train and test datasets. Compare mean of displacement in train and test (1 pt)
+3) Plot mpg - dependent variable. Is it normally distrbuted. (2 pt)
+4) Plot and find correlation of each of cylinders,displacement,horsepower,weight,acceleration vs mpg (3pt)
+5) encode categorical variables. Will this be used in modelling? (1pt)
+6) Outlier Analysis (2pt)
+7) Base model (5pt)
+8) Improvements (2pt)
+9) Prediction on test data (3pt) 
